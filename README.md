@@ -1,4 +1,4 @@
-# Embedded - Rest Example with Smart App 
+# Angular + Rest + Spring Boot - Example
 
 ### API URI: http://localhost:8080/rest/v1/</h1>
 
